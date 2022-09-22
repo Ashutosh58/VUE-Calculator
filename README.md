@@ -1,7 +1,7 @@
 # VUE-Calculator
 ## Project Description 
-This is a calculator application devloped in VUE JS. It will perform Addition, Subtraction, Multiplication and Division. To perform these operation we have to pass the parameter in the URL.
-ex. :- sum/12/12
+This is a calculator application devloped in VUE JS. It will perform Addition, Subtraction, Multiplication and Division.In the url if parameter will missmatch it will show 404 Page not Found. From this project we can learn create router & use, pass data from url, how to transfer data from parent to child component. To perform these operation we have to pass the parameter in the URL.
+ex. :- localhost:8080/sum/12/12
 
 ## Project setup
 ```
